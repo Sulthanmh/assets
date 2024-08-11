@@ -13,7 +13,7 @@ For every token a logo and optional additional information is available (such da
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
-<center><img src='https://trustwallet.com/assets/images/media/assets/horizontal_blue.png' height="200"></center>
+<center><img src='https://trustwallet.com/assets/images/media/assets/horizontal_blue.png' height ="200"></center>
 
 ## How to add token
 
